@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/hexczzz?igsh=ZXJuc2U4ZTl5cGdi" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hexcz" height="30" width="40" />
   </a>
-    <a href="https://x.com/hexczz" target="blank">
+    <a href="https://x.com/" target="blank">
     <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1yo1d00hiYg6ALH3RSsPZIUgSMVSpohx7SUasPdFOvAm14lNuufPYIC_&s=10" alt="hexcz" height="30" width="40" />
   </a>
 </p>
